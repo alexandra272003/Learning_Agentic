@@ -294,4 +294,4 @@ Model documentation: https://console.groq.com/docs/models
 
 This repository documents my practical learning journey with Python, API integration, prompt engineering, structured LLM outputs, and iterative workflows.
 
-The current exercises establish a foundation for agentic AI. Future improvements will focus on tool use, controlled execution, evaluation, and more autonomous task completion.
+The current exercises establish a foundation for agentic AI. Future improvements will focus on tool use, controlled execution, evaluation, and more autonomous task completion
